@@ -34,7 +34,10 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecc01ccf-2f56-4d65-8757-34d05a0383d5" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc20d20f-3259-4910-a53f-e14f8842afb3" />
 
 **RESULTS**
+Thus 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables has been verified.
